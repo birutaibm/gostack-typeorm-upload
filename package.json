@@ -21,7 +21,7 @@
     "pg": "^8.7.1",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.25",
-    "uuidv4": "^6.2.11"
+    "uuidv4": "^6.2.12"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
