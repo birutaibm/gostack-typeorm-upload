@@ -20,7 +20,7 @@
     "multer": "^1.4.4",
     "pg": "^8.8.0",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.3.0",
+    "typeorm": "^0.3.14",
     "uuidv4": "^6.2.13"
   },
   "devDependencies": {
